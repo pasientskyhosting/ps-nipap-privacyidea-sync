@@ -1,0 +1,1 @@
+* * * * * root /usr/local/bin/python /sync.py >> /dev/stdout 2>&1
